@@ -1,0 +1,15 @@
+{
+	"installed_packages":
+	[
+		"AutoFileName",
+		"BracketHighlighter",
+		"Emmet",
+		"HTML Mustache",
+		"HTML Snippets",
+		"HTML5",
+		"HTMLAttributes",
+		"Minifier",
+		"Package Control",
+		"Twitter Bootstrap Snippets"
+	]
+}
